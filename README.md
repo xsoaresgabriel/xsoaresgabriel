@@ -1,6 +1,6 @@
 # Gabriel Soares Gomes
 
-**Auxiliar de TI · SQL, automação e análise de dados**
+**TI · SQL, automação e análise de dados**
 
 Visconde do Rio Branco, MG — Brasil
 
