@@ -24,10 +24,6 @@ Construo soluções usando IA como ferramenta de apoio, sempre entendendo, testa
 - **Desenvolvimento:** construção de soluções com apoio de IA, Python (em evolução), lógica de programação
 - **Ferramentas:** Git/GitHub, Microsoft 365 / Teams
 
-## Projeto em destaque
-
-**[NoTrecho](https://notrecho.app.br)** — SaaS de análise para o setor de transporte. Calcula a lucratividade real por frete, rota e veículo a partir dos dados operacionais dos cooperados. Desenvolvido e operado por mim, do banco de dados à infraestrutura (Node.js, SQLite, arquitetura multiempresa, cobrança recorrente).
-
 ## Estudando agora
 
 - Python (fundamentos e automação)
